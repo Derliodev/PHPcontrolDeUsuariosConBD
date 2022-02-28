@@ -1,5 +1,5 @@
 # PHPcontrolDeUsuariosConBD
-Sistema de seguridad básico de login en PHP con conexión a una DB
+Sistema de control básico de login en PHP con conexión a una DB
 
 # DBPRINT
 Contiene el archivo "trabajador.sql" para generar la base de datos neceesaria (dbprint) para realizar las pruebas de forma local, en este caso se uso XAMPP.
